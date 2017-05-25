@@ -22,3 +22,4 @@ https://github.com/keon/algorithms
 
 ## Video 
 
+MIT OpenCourseWare Introduction to Alogithms: https://www.youtube.com/watch?v=JPyuH4qXLZ0&list=PL8B24C31197EC371C
