@@ -14,6 +14,9 @@ Comment by @luisarteaga : "This book is not about learning the essentials it is 
 ### [Think Python: How to Think Like a Computer Scientist](https://www.amazon.com/Think-Python-Like-Computer-Scientist-ebook/dp/B018UXJ9EQ/)
 Comment by @luisarteaga : "The book has good exercises to play around. It makes you think pythonic. You can also adapt some solutions to solve your own programming challenges."
 
+### [EbookFoundation: Free Programming Books (Python)](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
+Comment by @Constuelo : "A large repository of open source books, administered by a non profit. The list is not limited to Python."
+
 ## Code
 
 ## Video 
