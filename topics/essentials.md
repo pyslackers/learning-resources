@@ -25,7 +25,7 @@ Comment by @Constuelo : "A large repository of open source books, administered b
 Comment by @luisarteaga : "Short, concise and well explained python tutorials. Creator of my beloved python cups."
 
 ### [PyVideo.org](http://pyvideo.org/)
-Comment by @Constuelo : "indexes thousands of Python videos from the Python Community."
+Comment by @Constuelo : "Indexes thousands of Python videos from the Python Community."
 
 ## Online courses
 
