@@ -24,6 +24,9 @@ Comment by @Constuelo : "A large repository of open source books, administered b
 ### [Dan Bader's Python Tutorials](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 Comment by @luisarteaga : "Short, concise and well explained python tutorials. Creator of my beloved python cups."
 
+### [PyVideo.org](http://pyvideo.org/)
+Comment by @Constuelo : "indexes thousands of Python videos from the Python Community."
+
 ## Online courses
 
 ### [DataCamp Data Science and Machine Learning](https://www.datacamp.com/)
