@@ -3,7 +3,7 @@
 ## Books
 
 ### [Learning Python 5th Edition](https://www.amazon.com/Learning-Python-Powerful-Object-Oriented-Programming-ebook/dp/B00DDZPC9S/)
-Comment by @luisarteaga : "Part I (Chapter 1 to 3) is a must read for every pyhton beginner. It is mainly about the python command line and some important functions to start. The other parts/chapters are a very good reference source for python essentials. But for some topics like generators I recommend looking for more code examples on stackoverflow."
+Comment by @luisarteaga : "Part I (Chapter 1 to 3) is a must read for every python beginner. It is mainly about the python command line and some important functions to start. The other parts/chapters are a very good reference source for python essentials. But for some topics like generators I recommend looking for more code examples on stackoverflow."
 
 ### [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming-ebook/dp/B00WJ049VU/)
 Comment by @luisarteaga : "This book is just awesome. It gives you a quick overview of common techniques to optimize your office workflow. You will get good ideas for your own scripts. Useful scripts which manipulate csv files or scraping websites."
