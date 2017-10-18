@@ -16,6 +16,8 @@ Comment by @luisarteaga : "This book is great book for a smooth and entertaining
 
 A large comprehensive book of algorithms. The algorithms are written in pseudo-code. Many universities use this book to teach algorithms. It was mentioned that it may best to have a mathematics background to get the most out of this book.
 
+### [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+These are for demonstration purposes only. There are many implementations of sorts in the Python standard library that are much better for performance reasons.
 
 ## Code
 
