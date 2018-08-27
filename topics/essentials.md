@@ -14,12 +14,15 @@ Comment by @luisarteaga : "This book is not about learning the essentials it is 
 ### [Think Python: How to Think Like a Computer Scientist](https://www.amazon.com/Think-Python-Like-Computer-Scientist-ebook/dp/B018UXJ9EQ/)
 Comment by @luisarteaga : "The book has good exercises to play around. It makes you think pythonic. You can also adapt some solutions to solve your own programming challenges."
 
+### [TDD for the Web, with Python, Selenium, Django, and JavaScript](http://www.obeythetestinggoat.com/book/praise.harry.html)
+Comment by @albertfougy : "This detailed book takes you through the development of a real web application from beginning to end, it is a hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python/Django. In addition to the topics stated in the title, I received an introduction to devOps, linux commands, and SQL. The author is also responsive to your suggestions and questions.
+
 ### [EbookFoundation: Free Programming Books (Python)](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
 Comment by @Constuelo : "A large repository of open source books, administered by a non profit. The list is not limited to Python."
 
 ## Code
 
-## Video 
+## Video
 
 ### [Dan Bader's Python Tutorials](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 Comment by @luisarteaga : "Short, concise and well explained python tutorials. Creator of my beloved python cups."
