@@ -8,6 +8,8 @@ Comment by @luisarteaga : "Part I (Chapter 1 to 3) is a must read for every pyth
 ### [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.amazon.com/Automate-Boring-Stuff-Python-Programming-ebook/dp/B00WJ049VU/)
 Comment by @luisarteaga : "This book is just awesome. It gives you a quick overview of common techniques to optimize your office workflow. You will get good ideas for your own scripts. Useful scripts which manipulate csv files or scraping websites."
 
+Also available for free on the [author's website](https://automatetheboringstuff.com/).
+
 ### [The Hitchhiker's Guide to Python: Best Practices for Development](https://www.amazon.com/Hitchhikers-Guide-Python-Practices-Development-ebook/dp/B01L9W8CVG/)
 Comment by @luisarteaga : "This book is not about learning the essentials it is to use the essentials in a pythonic way. You will learn write great pythonic code."
 
