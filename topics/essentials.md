@@ -32,6 +32,9 @@ Comment by @luisarteaga : "Short, concise and well explained python tutorials. C
 ### [PyVideo.org](http://pyvideo.org/)
 Comment by @Constuelo : "Indexes thousands of Python videos from the Python Community."
 
+### [Engineer Man](https://www.youtube.com/watch?v=bgBWp9EIlMM)
+Comment by @Pieter : "Great explanation of regex for newbies"
+
 ## Online courses
 
 ### [DataCamp Data Science and Machine Learning](https://www.datacamp.com/)
