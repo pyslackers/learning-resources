@@ -14,7 +14,11 @@ Also available for free on the [author's website](https://automatetheboringstuff
 Comment by @luisarteaga : "This book is not about learning the essentials it is to use the essentials in a pythonic way. You will learn write great pythonic code."
 
 ### [Think Python: How to Think Like a Computer Scientist](https://www.amazon.com/Think-Python-Like-Computer-Scientist-ebook/dp/B018UXJ9EQ/)
-Comment by @luisarteaga : "The book has good exercises to play around. It makes you think pythonic. You can also adapt some solutions to solve your own programming challenges."
+Comment by @luisarteaga : "The book has good exercises to play around. It makes you think pythonic. You can also adapt
+some solutions to solve your own programming challenges."
+
+### [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
+Comment by @amos1969 : "This is an online version of the other book called **Think Python: How to Think Like a Computer Scientist** above. All of the code examples can be run and altered in the browser, as part of the general text of the book." 
 
 ### [TDD for the Web, with Python, Selenium, Django, and JavaScript](http://www.obeythetestinggoat.com/book/praise.harry.html)
 Comment by @albertfougy : "This detailed book takes you through the development of a real web application from beginning to end, it is a hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python/Django. In addition to the topics stated in the title, I received an introduction to devOps, linux commands, and SQL. The author is also responsive to your suggestions and questions.
