@@ -20,6 +20,9 @@ A large comprehensive book of algorithms. The algorithms are written in pseudo-c
 ### [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
 These are for demonstration purposes only. There are many implementations of sorts in the Python standard library that are much better for performance reasons.
 
+### [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+Comment by @amos1969 : "This is a great online, free to access book. It takes a deep dive into implementing some common Algorithms and Data Structures using Python, with fully interactive examples which run in the browser, most of which can also be edited there to see what effect the changes have."
+
 ## Code
 
 ### [Leetcode](http://leetcode.com/)
