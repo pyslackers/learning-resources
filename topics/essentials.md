@@ -43,3 +43,9 @@ Comment by @Pieter : "Great explanation of regex for newbies"
 
 ### [DataCamp Data Science and Machine Learning](https://www.datacamp.com/)
 Comment by @MichaelYusko : "Very interesting course, who want to learn new areas such as: Data Science and Machine Learning"
+
+## Cheat Sheets
+
+### [Online Python Cheat Sheet](https://www.pythoncheatsheet.org/)
+Comment by @amos1969 : "Very nicely formatted and updated, online Python Cheat Sheet. I often have this open in a tab when I'm working on a project."
+
