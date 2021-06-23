@@ -23,7 +23,7 @@ Comment by @amos1969 : "This is an online version of the other book called **Thi
 ### [TDD for the Web, with Python, Selenium, Django, and JavaScript](http://www.obeythetestinggoat.com/book/praise.harry.html)
 Comment by @albertfougy : "This detailed book takes you through the development of a real web application from beginning to end, it is a hands-on guide demonstrates the practical advantages of test-driven development (TDD) with Python/Django. In addition to the topics stated in the title, I received an introduction to devOps, linux commands, and SQL. The author is also responsive to your suggestions and questions.
 
-### [EbookFoundation: Free Programming Books (Python)](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#python)
+### [EbookFoundation: Free Programming Books (Python)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#python)
 Comment by @Constuelo : "A large repository of open source books, administered by a non profit. The list is not limited to Python."
 
 ## Code
