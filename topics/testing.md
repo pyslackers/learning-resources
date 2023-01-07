@@ -13,3 +13,6 @@
 ## Blog
 
 * [Obey the Testing Goat!](https://www.obeythetestinggoat.com/)
+
+## Readings
+* [Building Good Tests](https://salmonmode.github.io/2019/03/29/building-good-tests.html)
