@@ -1,6 +1,7 @@
 # Topics
 
 - [Algorithms](topics/algorithms.md)
+- [Deployment Platforms](topics/deployment_platforms.md)
 - [General](topics/general.md)
 - [Testing](topics/testing.md)
 - Languages
