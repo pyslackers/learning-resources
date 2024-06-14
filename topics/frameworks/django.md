@@ -9,6 +9,8 @@ Angular in how features are included by default and its opinionated default sett
  * [VPS Configuration and Deployment](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-20-04)
  * [A Complete BeginnersGuide to Django](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/)
   * [A Comprehensive introduction to Django web framework](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+  * [Djangobook.com - A website of all available books on Django.](https://djangobook.com/)
+  * 
 
 ### Groups and Communities
  * [Django-Users Google Group](https://groups.google.com/forum/#!forum/django-users)
