@@ -28,6 +28,9 @@ Comment by @Constuelo : "A large repository of open source books, administered b
 
 ## Code
 
+### [wtfpython: Exploring and understanding Python through surprising snippets](https://github.com/satwikkansal/wtfpython)
+Comment by @rjvitorino : "This project does a fantastic job of demystifying some of Python's unexpected outcomes, providing clear explanations and insights into Python's lesser-known features and nuances, a must-visit for any Python enthusiast looking to deepen their understanding of the language."
+
 ## Video
 
 ### [Dan Bader's Python Tutorials](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
